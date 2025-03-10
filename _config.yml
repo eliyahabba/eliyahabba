@@ -1,0 +1,31 @@
+title: Eliya Habba
+email: eliya.habba@mail.huji.ac.il
+description: >- 
+  PhD Candidate in Computer Science at the Hebrew University of Jerusalem
+baseurl: ""
+url: "https://eliyahabba.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site Author
+author:
+  name: "Eliya Habba"
+  avatar: "/assets/images/profile.jpg"
+  bio: "PhD Candidate in Computer Science"
+  location: "Jerusalem, Israel"
+  github: eliyahabba
+  linkedin: eliya-habba-39195316a
+  twitter: EliyaHabba 
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git/ 
